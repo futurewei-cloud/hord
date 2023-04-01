@@ -1,3 +1,5 @@
+"This Project has been archived by the owner, who is no longer providing support.  The project remains available to authorized users on a "read only" basis."
+
 # Hord
 
 > A data storage and manipulation library for javascript
@@ -14,12 +16,19 @@
 <br><a name="Installation"></a>
 
 ### Installation
-```npm install hord```_Requires Babel 7.2+_
+```
+npm install hord
+```
+_Requires Babel 7.2+_
 
 <br><a name="Docs"></a>
 
 ### Docs
-- [List](docs/List.md)- [Schema](docs/Schema.md)- [Model](docs/Model.md)- [Collection](docs/Collection.md)- [compare](docs/compare.md)
+- [List](docs/List.md)
+- [Schema](docs/Schema.md)
+- [Model](docs/Model.md)
+- [Collection](docs/Collection.md)
+- [compare](docs/compare.md)
 
 [npm]: https://img.shields.io/npm/v/hord.svg
 [npm-url]: https://npmjs.com/package/hord
